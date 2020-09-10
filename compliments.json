@@ -1,0 +1,14 @@
+{
+    "morning": [
+      "Gunaydin", "Hayirli Sabahlar"
+    ],
+    "afternoon": [
+      "Iyi Oglenler", "Hayirli Gunler"
+    ],
+    "evening": [
+      "Hayirli Aksamlar"
+    ],
+    "anytime": [
+      "Masallahin var", "Oooo! Guzelsin guzel.", "Aman Nazar Degmesin!"
+    ]
+}
